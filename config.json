@@ -1,8 +1,8 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "default_prefix": "za",
+  "token": "NzQ5OTAxNjQ3ODk5MTMxOTg1.X0yuVQ.rQsgY485gENlqQ4tNL-4oijMa-8",
+  "default_prefix": "p.",
   "everyoneMention": false,
   "hostedBy": true,
   "botsCanWin": false,
-  "dev": "787842689969684480"
+  "dev": "698338971062894643"
 }
